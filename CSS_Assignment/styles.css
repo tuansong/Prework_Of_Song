@@ -1,0 +1,41 @@
+/* add your CSS here */
+body {
+	font-family: sans-serif;
+}
+
+h3	{
+	margin-left: 20px;
+}
+
+img	{
+	height: 200px;
+	width: 300px;;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	border-radius: 50%;
+}
+
+.fact {
+	font-style: italic; 
+}
+
+span {
+	font-weight: bold;
+}
+
+.container {
+	height: auto;
+	width: 350px;
+	border: 2px solid;
+	box-shadow: 5px 10px #888888;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.info {
+	border: 1px solid;
+	margin: 10px;
+	padding: 10px;
+}
